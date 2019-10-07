@@ -1,0 +1,141 @@
+.bacgraund {
+    text-decoration: none;
+    outline: none;
+    display: inline-block;
+    padding: 12px 40px;
+    margin: 10px 20px;
+    border-radius: 30px;
+    background-image: linear-gradient(45deg, #6ab1d7 0%, #33d9de 50%, #002878 100%);
+    background-position: 100% 0;
+    background-size: 200% 200%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    color: white;
+    box-shadow: 0 16px 32px 0 rgba(0, 40, 120, .35);
+    transition: .5s;
+}
+
+
+.BacgraundToo {
+    border-color: #008a77; /* Цвет границы */
+    border-style: solid; /* Стиль границы */
+    padding: 5px;
+    font-size: 50px;
+    margin-right: 100px;
+    background: linear-gradient(45deg, rgba(103, 0, 31, .8), rgba(34, 101, 163, .5));
+    float: right;
+    width: 300px;
+    height: 600px;
+}
+
+.BacgraundHeader {
+    border-color: #008a77; /* Цвет границы */
+    border-style: solid; /* Стиль границы */
+    margin: 20px;
+    background: radial-gradient(at top, #FEFFFF, #A7CECC);
+}
+
+.BacgraundOne {
+    width: 300px;
+    height: 600px;
+    border-color: #008a77; /* Цвет границы */
+    border-style: solid; /* Стиль границы */
+    padding: 5px;
+    font-size: 40px;
+    margin-left: 100px;
+    background: linear-gradient(45deg, rgba(103, 0, 31, .8), rgba(34, 101, 163, .5));
+    float: left;
+}
+
+p {
+    font-size: 10px;
+}
+
+h6 {
+    /*margin-block-start: 0;*/
+    /*margin-block-end: 0;*/
+    margin-top: 30px;
+}
+
+
+.bacgraundSet {
+    text-decoration: none;
+    outline: none;
+    display: inline-block;
+    padding: 12px 40px;
+    border-radius: 30px;
+    background-image: linear-gradient(45deg, #6ab1d7 0%, #33d9de 50%, #002878 100%);
+    background-position: 100% 0;
+    background-size: 200% 200%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    color: white;
+    box-shadow: 0 16px 32px 0 rgba(0, 40, 120, .35);
+    transition: .5s;
+    margin-left: 40px;
+}
+
+
+.buttonReset {
+    text-decoration: none;
+    outline: none;
+    display: inline-block;
+    padding: 12px 40px;
+    border-radius: 30px;
+    background-image: linear-gradient(45deg, #d73754 0%, #de6cba 50%, #787111 100%);
+    background-position: 100% 0;
+    background-size: 200% 200%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    color: white;
+    box-shadow: 0 16px 32px 0 rgba(0, 40, 120, .35);
+    transition: .5s;
+}
+
+.buttonChangeStartValue {
+    text-decoration: none;
+    outline: none;
+    display: inline-block;
+    padding: 12px 40px;
+    border-radius: 30px;
+    background-image: linear-gradient(45deg, #d73754 0%, #de6cba 50%, #787111 100%);
+    background-position: 100% 0;
+    background-size: 200% 200%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    color: white;
+    box-shadow: 0 16px 32px 0 rgba(0, 40, 120, .35);
+    transition: .5s;
+    margin-top: 70px;
+}
+
+
+.buttonChangeStartValueText {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: #008a77;
+}
+
+
+.bacgraundInputMax {
+    background-image: linear-gradient(45deg, #6ab1d7 0%, #33d9de 50%, #002878 100%);
+    border-style: solid;
+}
+
+.bacgraundInputMin {
+    background-image: linear-gradient(45deg, #6ab1d7 0%, #33d9de 50%, #002878 100%);
+    border-style: solid;
+    margin-top: 10px;
+}
+
+.bacgraundInputStart {
+    background-image: linear-gradient(45deg, #6ab1d7 0%, #33d9de 50%, #002878 100%);
+    border-style: solid;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
